@@ -1,4 +1,5 @@
-[Patika.dev](https://www.patika.dev/tr)
+[Patika.dev](https://www.patika.dev/tr)  
+
 Soru1:  
 [16,21,11,8,12,22]  
 [16,21,11]    -  [8,12,22]  
